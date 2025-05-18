@@ -3,3 +3,6 @@ ini merupakan repository dalam workshop OR 14 Neo Telemetri
 nama : muhammad habib
 divisi : programming
 sub-divisi : mobile-programming
+
+jurusan : sistem informasi
+fakultas : teknologi informasi
